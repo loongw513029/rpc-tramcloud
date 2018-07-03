@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="app" />
+        <module name="common" />
+        <module name="core" />
+        <module name="domain" />
+        <module name="dubbo" />
+        <module name="dubbo-prodiver" />
+        <module name="httplaunch" />
+        <module name="iservice" />
+        <module name="jt808" />
+        <module name="mqtt" />
+        <module name="web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="app" target="1.8" />
+      <module name="common" target="1.5" />
+      <module name="core" target="1.8" />
+      <module name="domain" target="1.5" />
+      <module name="dubbo" target="1.5" />
+      <module name="dubbo-prodiver" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="httplaunch" target="1.8" />
+      <module name="iservice" target="1.5" />
+      <module name="jt808" target="1.5" />
+      <module name="mapper" target="1.5" />
+      <module name="mqtt" target="1.5" />
+      <module name="provider" target="1.8" />
+      <module name="service" target="1.5" />
+      <module name="tramcloud" target="1.5" />
+      <module name="web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

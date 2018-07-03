@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/dubbo/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-prodiver/dubbo-prodiver.iml" filepath="$PROJECT_DIR$/dubbo-prodiver/dubbo-prodiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httplaunch/httplaunch.iml" filepath="$PROJECT_DIR$/httplaunch/httplaunch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iservice/iservice.iml" filepath="$PROJECT_DIR$/iservice/iservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt808/jt808.iml" filepath="$PROJECT_DIR$/jt808/jt808.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mqtt/mqtt.iml" filepath="$PROJECT_DIR$/mqtt/mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tramcloud.iml" filepath="$PROJECT_DIR$/tramcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>

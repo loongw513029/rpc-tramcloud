@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="httplaunch:war">
+    <output-path>$PROJECT_DIR$/httplaunch/target</output-path>
+    <root id="archive" name="httplaunch-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="httplaunch:war exploded" />
+    </root>
+  </artifact>
+</component>
