@@ -13,7 +13,6 @@
         <module name="dubbo" />
         <module name="dubbo-prodiver" />
         <module name="httplaunch" />
-        <module name="iservice" />
         <module name="jt808" />
         <module name="mqtt" />
         <module name="web" />

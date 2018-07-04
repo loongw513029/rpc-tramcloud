@@ -12,7 +12,6 @@
         <module>core</module>
         <module>common</module>
         <module>mqtt</module>
-        <module>iservice</module>
         <module>jt808</module>
         <module>web</module>
         <module>app</module>

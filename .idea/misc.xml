@@ -18,6 +18,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/api/pom.xml" />
+        <option value="$PROJECT_DIR$/iservice/pom.xml" />
         <option value="$PROJECT_DIR$/mapper/pom.xml" />
         <option value="$PROJECT_DIR$/provider/pom.xml" />
       </set>
